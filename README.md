@@ -1,17 +1,19 @@
-# Systems Analysis. Home works of the educational course Systems Analysis
-# Week 1. Event Storming and Data Model
+# Systems Analysis. Homeworks of the educational course Systems Analysis
+# Week 1. Working with requirements, dividing the system into elements
 
-***
+## Домашнее задание
+-[x] Создать event storming диаграмму;
+-[x] Создать модель данных;
+-[x] Описать принятые решения.
+
 ## Модели
-[Ссылка на диаграммы в Miro](https://miro.com/app/board/uXjVMHGq3Q0=/?share_link_id=940434293337)
-
-На доске расположены диаграммы:
+[На доске miro расположены диаграммы](https://miro.com/app/board/uXjVMHGq3Q0=/?share_link_id=940434293337):
 * Event Storming (ES);
 * Data model;
 * Модель связей в системе.
 
 Модели так же прикреплены в репозитории. Описание системы и решений в моделях приведены ниже.
-***
+
 ## Описание моделей и системы
 
 ### Основной контекст MCF 
