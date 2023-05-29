@@ -1,7 +1,13 @@
 # Systems Analysis. Home works of the educational course Systems Analysis
 
-## Week1: Event Storming and data modeling
+## Домашнее задание
 
-* [Branch](https://github.com/mariakrol/systems-analysis/tree/home-work-1)
-* [Miro](https://miro.com/app/board/uXjVMHGq3Q0=/?share_link_id=940434293337)
-* [Description](https://github.com/mariakrol/systems-analysis/blob/home-work-1/README.md)
+- [ ] Определить стекхолтеров;
+- [ ] Выбрать архитектурный стиль;
+- [ ] Аргументировать выбор;
+  - [ ] Только для распределенных: описать сервисы; 
+- [ ] Выбрать базу (-ы);
+- [ ] Выберите стиль коммуникаций и их вид (синхронный/асинхронный);
+- [ ] Аргументировать выбор коммуникаций;
+- [ ] Выбрать фитнес-функции для валидации итоговой системы;
+- [ ] Сделать ADR, описать принятие решения по изоляции одного из элементов как изолированного сервиса.
