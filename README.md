@@ -10,3 +10,8 @@
 * [Branch](https://github.com/mariakrol/systems-analysis/tree/home-work-2)
 * [Miro](https://miro.com/app/board/uXjVMGyh5Ig=/)
 * [Description](https://github.com/mariakrol/systems-analysis/blob/home-work-2/README.md)
+
+## Week3: External constraints and documentation
+* [Branch](https://github.com/mariakrol/systems-analysis/tree/home-work-3)
+* [Miro](https://miro.com/app/board/uXjVMDmE-HA=/?share_link_id=486121318217)
+* [Description](https://github.com/mariakrol/systems-analysis/blob/home-work-3/README.md)
